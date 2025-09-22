@@ -1,0 +1,39 @@
+{
+  "network": "base",
+  "chainId": 8453,
+  "contracts": {
+    "mainToken": {
+      "name": "BasedDayana",
+      "symbol": "DAYA",
+      "address": "0xCF103155Ebe5358380BD946b12C8b7137ae3E2D2",
+      "type": "ERC20",
+      "explorer": "https://basescan.org/token/0xCF103155Ebe5358380BD946b12C8b7137ae3E2D2",
+      "description": "Main DAYA token contract"
+    },
+    "contract2": {
+      "address": "0x4bbb926AA09e15E2b38d81E0d16ae09a61c0402a",
+      "explorer": "https://basescan.org/address/0x4bbb926AA09e15E2b38d81E0d16ae09a61c0402a",
+      "description": "Secondary contract - functionality to be determined"
+    },
+    "contract3": {
+      "address": "0x88d76b5D04eDb69bfF31a0f6Fc1D51a23BD58720",
+      "explorer": "https://basescan.org/address/0x88d76b5D04eDb69bfF31a0f6Fc1D51a23BD58720",
+      "description": "Tertiary contract - functionality to be determined"
+    },
+    "contract4": {
+      "address": "0x763742DB404a5779a07dD84a9cF7Fd139ea01dba",
+      "explorer": "https://basescan.org/address/0x763742DB404a5779a07dD84a9cF7Fd139ea01dba",
+      "description": "Quaternary contract - functionality to be determined"
+    },
+    "contract5": {
+      "address": "0x11e21976c28748B32dd414cf172868D19AA2bed3",
+      "explorer": "https://basescan.org/address/0x11e21976c28748B32dd414cf172868D19AA2bed3",
+      "description": "Quinary contract - functionality to be determined"
+    }
+  },
+  "deploymentInfo": {
+    "deploymentDate": "2024",
+    "compiler": "Solidity",
+    "network": "Base Mainnet"
+  }
+}
